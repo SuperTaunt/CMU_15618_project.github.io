@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Lock-free Hash Table
+Team members: Chen He, Yida Wu
 
-You can use the [editor on GitHub](https://github.com/SuperTaunt/CMU_15618_project.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Links
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Web Page](https://supertaunt.github.io/CMU_15618_project.github.io/)
+* Proposal (TBD)
+* Milestone (TBD)
+* Poster (TBD)
+* Final Report (TBD)
 
-### Markdown
+### Summary
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are going to implement coarse-grained, fine-grained and lock-free skiplist and then compare the performance between them.
 
-```markdown
-Syntax highlighted code block
+### Schedule 
 
-# Header 1
-## Header 2
-### Header 3
+| Timeline       | Task                                                        | Progress    |
+|----------------|-------------------------------------------------------------|-------------|
+| 11/04 -- 11/08 | Investigate on the research paper and discuss the idea.     |         |
+| 11/09 -- 11/15 | Implement coarse-grained version of skiplist.               |         |
+|                | Implement fine-grained version of skiplist.                 |         |
+| 11/16 -- 11/24 | Implement insert function in lock-free skiplist             |         |
+|                | Implement delete function in lock-free skiplist             |         |
+|                | Implement other functions in lock-free skiplist             |         |
+|                | Finish milestone report                                     |         |
+| 11/25 -- 12/02 | Performance analysis                                        |         |
+|                | Optimize skiplist performance                               |         |
+| 12/03 -- 12/09 | Analyze and compare the final performance                   |         |
+|                | Finish final report                                         |         |
+|                | Finish poster                                               |         |
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SuperTaunt/CMU_15618_project.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
