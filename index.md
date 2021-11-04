@@ -4,7 +4,7 @@ Team members: Chen He, Yida Wu
 ### Links
 
 * [Web Page](https://supertaunt.github.io/CMU_15618_project.github.io/)
-* Proposal (TBD)
+* [Proposal](./15618_project_proposal.pdf)
 * Milestone Report (TBD)
 * Poster (TBD)
 * Final Report (TBD)
