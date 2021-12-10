@@ -31,7 +31,7 @@ We implemented three versions of the skip list including a coarse-grained lock-b
 | 11/27 - 11/28  | Verify the correctness for the implementation and fix problems. | Done | Together |
 | 11/29 - 12/03  | Design test cases to evaluate performance. | Done | Together |
 |                | Conduct performance evaluation. | Done | Together |
-| 12/04 - 12/09  | Finish final project report. |  Done  | Together |
+| 12/04 - 12/09  | Finish final project report. |  Done | Together |
 |                | Finish poster. | Done | Together |
 
 
